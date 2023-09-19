@@ -1,8 +1,5 @@
 #!/bin/bash
 
-# Mise à jour du système
-sudo apt-get update
-
 # Installation d'Apache
 sudo apt-get install -y apache2
 
